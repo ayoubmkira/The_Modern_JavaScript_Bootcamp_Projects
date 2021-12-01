@@ -4,8 +4,10 @@
 - Hangman game:
 ![image hangman game](projects-images/hangman-app.png)
 
+
 - Notes App:
 ![image notes app](projects-images/notes-app.png)
+
 
 - Todo App:
 ![image todos app](projects-images/todo-app.png)
