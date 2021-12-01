@@ -9,6 +9,6 @@
 ![image notes app](projects-images/notes-app.png)
 
 
-- Todo App:
+- Todos App:
 ![image todos app](projects-images/todo-app.png)
 
